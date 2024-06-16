@@ -1,0 +1,21 @@
+[
+    {
+      "title": "Pitch Perfect",
+      "director": "Jason Moore",
+      "plot": "Beca, uma caloura da Universidade de Barden, é convencida a se juntar às Bellas, o grupo vocal feminino da escola.",
+      "poster": "img/pitch_perfect.jpg"
+    },
+    {
+      "title": "Cisne Negro",
+      "director": "Darren Aronofsky",
+      "plot": "Uma dançarina comprometida luta para manter sua sanidade depois de ganhar o papel principal em uma produção de \"O Lago dos Cisnes\" de Tchaikovsky.",
+      "poster": "img/black_swan.jpg"
+    },
+    {
+      "title": "Batman (2021)",
+      "director": "Matt Reeves",
+      "plot": "No seu segundo ano de atividades como vigilante, Bruce Wayne enfrenta a corrupção em Gotham City, enquanto descobre a verdade sobre sua família e os segredos que alimentam sua história.",
+      "poster": "img/batman.jpg"
+    }
+  ]
+  
